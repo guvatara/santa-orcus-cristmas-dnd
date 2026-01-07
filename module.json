@@ -1,7 +1,7 @@
 {
   "id": "santa-orcus-cristmas",
   "title": "Santa Orcus Cristmas",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -28,13 +28,16 @@
       "label": "Санта Оркус украл рождество",
       "path": "packs/santa-orcus-adventure",
       "type": "Adventure",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
+  "url": "https://github.com/guvatara/santa-orcus-cristmas-dnd",
+  "manifest": "https://github.com/guvatara/santa-orcus-cristmas-dnd/blob/main/module.json",
+  "download": "https://github.com/guvatara/santa-orcus-cristmas-dnd/archive/refs/tags/0.0.2.zip",
   "description": "",
   "flags": {}
 }
