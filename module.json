@@ -1,7 +1,7 @@
 {
   "id": "santa-orcus-cristmas",
   "title": "Santa Orcus Cristmas",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -36,8 +36,6 @@
     }
   ],
   "url": "https://github.com/guvatara/santa-orcus-cristmas-dnd",
-  "manifest": "https://github.com/guvatara/santa-orcus-cristmas-dnd/blob/main/module.json",
-  "download": "https://github.com/guvatara/santa-orcus-cristmas-dnd/archive/refs/tags/0.0.2.zip",
   "description": "",
   "flags": {}
 }
